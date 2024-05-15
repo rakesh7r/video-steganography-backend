@@ -1,0 +1,3 @@
+[submodule "video-steganography-client"]
+	path = video-steganography-client
+	url = https://github.com/rakesh7r/video-steganography-client
